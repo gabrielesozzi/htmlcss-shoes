@@ -75,3 +75,7 @@ span {
 .text_centered {
   text-align: center;
 }
+
+a {
+  text-decoration: none;
+}
